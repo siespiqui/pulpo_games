@@ -76,6 +76,6 @@ Proyecto desarrollado de forma colaborativa para la ficha 3321349 (SENA 2026):
 
 Simón Esteban Pineda Quiroga (siespiqui)
 
-Daniels2311 (Daniels2311)
+Daniel Santiago Granados Castañeda (Daniels2311)
 
 José Manuel Espitia Romero (espitiaromerojosemanuel91-wq)
